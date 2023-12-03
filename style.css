@@ -1,0 +1,86 @@
+#header {
+    background-color: #303030;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    text-align: left;
+    padding-left: 30px;
+}
+
+#dados {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.numeros {
+    font-size: 35px;
+
+}
+
+#dados {
+    background-color: #f9f9f9;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 115px;
+    padding-right: 30px;
+    text-align: left;
+    font-family: 'Inter', sans-serif;
+}
+
+#informacional {
+    background-color: #FFFFFF;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding-left: 50px;
+    text-align: left;
+    padding-top: 60px;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 50px;
+}
+
+#imagem {
+    width: 450px;
+    text-align: right;
+}
+
+#titulo {
+    font-size: 35px;
+    text-align: center;
+    color: #000000;
+
+}
+
+#textoinformacional {
+    padding-top: 120px;
+}
+
+#cadastro {
+    background-color: #303030;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+#button {
+    color: #FFFFFF;
+    background-color: #C07212;
+    width: 165px;
+    height: 45px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    border-radius: 7px;
+    text-shadow: rgba(0, 0, 0, 0.3);
+}
+
+input {
+    width: 365px;
+    height: 45px;
+    border-radius: 10px;
+
+}
